@@ -16,7 +16,9 @@
         <TextView
             android:id="@+id/resultEdit"
             android:layout_width="fill_parent"
-            android:layout_height="198dp" />
+            android:layout_height="198dp"
+            android:textAlignment="viewEnd"
+            android:textSize="60sp" />
 
         <LinearLayout
             android:id="@+id/buttonRow01"
@@ -182,6 +184,7 @@
             android:id="@+id/buttonEq"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
+            android:onClick="btnResultClick"
             android:text="@string/buttonEq" />
 
     </LinearLayout>

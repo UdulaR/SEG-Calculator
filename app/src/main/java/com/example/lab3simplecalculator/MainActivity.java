@@ -105,7 +105,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void btnClearClick(View view){
         TextView eText = (TextView)findViewById(R.id.resultEdit);
-        eText.setText(eText.getText()+"");
+        eText.setText("");
     }
     public void btnDotClick(View view){
         TextView eText = (TextView)findViewById(R.id.resultEdit);

@@ -13,7 +13,7 @@
     <string name="buttonAdd">+</string>
     <string name="buttonSub">-</string>
     <string name="buttonDiv">÷</string>
-    <string name="buttonMult">/×</string>
+    <string name="buttonMult">×</string>
     <string name="buttonDot">.</string>
     <string name="buttonCE">C</string>
     <string name="buttonEq">=</string>
